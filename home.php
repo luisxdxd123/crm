@@ -91,7 +91,7 @@ echo '<!DOCTYPE html>
         .desconocido { background: #9E9E9E; }
         .error-msg { color: #D32F2F; margin-top: 5px; }
         .success-msg { color: #388E3C; margin-top: 5px; }
-        .info-msg { color: #1976D2; margin-top: 5   px; }
+        .info-msg { color: #1976D2; margin-top: 5px; }
     </style>
 </head>
 <body>
